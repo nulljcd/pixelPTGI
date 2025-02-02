@@ -10,10 +10,10 @@ A simple realtime 2d pixel game lighting engine.
 - Completely unbiased, single-pass pathtracing
 
 ## Notes
-- The shader is the actual application, and is easily portible to other engines like unity or godot
+- The shader is the actual application, and doesn't need test.cpp, and is easily portible to other engines like unity or godot
 
 ## test.cpp
-- test.cpp file runs on SFML, and is only for development.
+- test.cpp file runs on SFML 3, and is only for development.
 - hover over a pixel and press keys 0-9 to interact
 
 ## Images
