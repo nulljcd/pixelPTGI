@@ -7,7 +7,7 @@ A simple realtime 2d pixel game lighting engine.
 - Powerful denoising based on TAA and reSTIR
 
 ## Details
-- Completely unbiased
+- Completely unbiased, single-pass pathtracing
 
 ## Notes
 - The shader is the actual application, and is easily portible to other engines like unity or godot
